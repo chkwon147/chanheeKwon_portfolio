@@ -1,212 +1,208 @@
-<h1 style="text-align: left;">Flutter Developer Kwon Chanhee portfolio</h1>
-<p>&nbsp;</p>
-<h3>Flutter v1부터 공부하며 개발해온 5년차 개발자 권찬희 입니다.</h3>
-<h3>다양한 개발자, 기획자, 디자이너 분들과 원만한 소통으로 여러 프로젝트를 경험하며 착실하게 성장해왔습니다.</h3>
-<h3>모든 프로젝트에 진심으로 임해왔고, 앞으로도 성장하는 개발자가 되도록 노력하겠습니다.</h3>
-<p>&nbsp;</p>
-<table style="height: 28px; width: 532px;" border="0">
-<tbody>
-<tr>
-<td style="width: 522px;">
-<p class="p1" style="text-align: center;"><strong>Personal Data</strong></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="height: 129px; width: 531.961px;">
-<tbody>
-<tr>
-<td style="width: 85px; text-align: center;"><strong>성&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 명</strong></td>
-<td style="width: 426.961px; text-align: center;">권 찬 희</td>
-</tr>
-<tr>
-<td style="width: 85px; text-align: center;"><strong>생 년 월 일</strong></td>
-<td style="width: 426.961px; text-align: center;">1996. 12. 11</td>
-</tr>
-<tr>
-<td style="width: 85px; text-align: center;"><strong>전 화 번 호</strong></td>
-<td style="width: 426.961px; text-align: center;">010.4955.7347</td>
-</tr>
-<tr>
-<td style="width: 85px; text-align: center;"><strong>주&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 소</strong></td>
-<td style="width: 426.961px; text-align: center;">
-<p>부천시 소사구 심곡본동 617-11&nbsp;(부천 롯데아파트 2동 509호)</p>
-</td>
-</tr>
-<tr>
-<td style="width: 85px; text-align: center;"><strong>병&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 역</strong></td>
-<td style="width: 426.961px; text-align: center;">육군 병장 전역 (2016.10 ~ 2018.07)</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<table style="height: 25px; width: 532px;">
-<tbody>
-<tr>
-<td style="width: 522px; text-align: center;"><strong>Educational Background</strong></td>
-</tr>
-</tbody>
-</table>
-<table style="height: 62px; width: 532px;">
-<tbody>
-<tr>
-<td style="width: 206.656px; text-align: center;">2016. 03 ~ 2019.07</td>
-<td style="width: 307.344px; text-align: center;">서일대학교 3학년 중퇴 (소프트웨어 공학과)</td>
-</tr>
-<tr>
-<td style="width: 206.656px; text-align: center;">2012. 03 ~ 2015. 02</td>
-<td style="width: 307.344px; text-align: center;">용산 공업 고등학교 (전자과)</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<table style="height: 36px;" width="358">
-<tbody>
-<tr>
-<td style="width: 348px;">
-<p class="p1" style="text-align: center;"><strong>Core Competency </strong></p>
-</td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li>
-<h4>Git, SVN, Figma, Trello, Zeplin, Jira 등 다양한 협업 가능</h4>
-</li>
-<li>
-<h4>상태관리에 대한 이해 (Getx, Bloc, Provider)</h4>
-</li>
-<li>
-<h4>다양한 Api 활용 및 커스텀</h4>
-</li>
-<li>
-<h4>Firebase를 이용한 다양한 기능 활용 (push, database 등)</h4>
-</li>
-<li>
-<h4>RESTful Api, GraphQR 에 대한 이해 및 활용</h4>
-</li>
-<li>
-<h4>프로젝트에 맞는 아키텍쳐 사용 (MVVM, MVC 등)</h4>
-</li>
-<li>
-<h4>라이브러리를 상황에 맞게 커스텀</h4>
-</li>
-<li>
-<h4>블루투스를 이용한 펌웨어 통신</h4>
-</li>
-<li>
-<h4>소셜 로그인 구현</h4>
-</li>
-<li>
-<h4>예외처리를 위한 효율적인 UI 작업</h4>
-</li>
-</ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<table style="width: 533px;">
-<tbody>
-<tr>
-<td style="width: 523px; text-align: center;"><strong>Work Experience</strong></td>
-</tr>
-</tbody>
-</table>
-<table style="height: 137px; width: 533px;">
-<tbody>
-<tr>
-<td style="width: 154px; text-align: center;">경&nbsp; 력</td>
-<td style="width: 133.125px; text-align: center;">회 사 명</td>
-<td style="width: 110.875px; text-align: center;">부&nbsp; 서</td>
-<td style="width: 102px; text-align: center;">직&nbsp; 급</td>
-</tr>
-<tr>
-<td style="width: 154px; text-align: center;">2018.08 ~ 2020.05</td>
-<td style="width: 133.125px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/tree/main/Work%20Experience/%EC%98%A8%EC%95%84%EC%9D%B4%EC%98%A4">온아이오</a></td>
-<td style="width: 110.875px; text-align: center;">개발팀</td>
-<td style="width: 102px; text-align: center;">사원</td>
-</tr>
-<tr>
-<td style="width: 154px; text-align: center;">2020.12 ~ 2021.11</td>
-<td style="width: 133.125px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/tree/main/Work%20Experience/%EB%84%B7%EB%AF%B9%EC%8A%A4">넷믹스</a></td>
-<td style="width: 110.875px; text-align: center;">개발연구팀</td>
-<td style="width: 102px; text-align: center;">주임</td>
-</tr>
-<tr>
-<td style="width: 154px; text-align: center;">2021.11 ~ 2022.10</td>
-<td style="width: 133.125px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/tree/main/Work%20Experience/%ED%94%BC%ED%94%8C%EC%95%A4%EC%9E%A1">피플앤잡</a></td>
-<td style="width: 110.875px; text-align: center;">개발팀</td>
-<td style="width: 102px; text-align: center;">대리</td>
-</tr>
-<tr>
-<td style="width: 154px; text-align: center;">2022.10 ~ 2023.06</td>
-<td style="width: 133.125px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/tree/main/Work%20Experience/%EB%8D%94%EC%9A%B0%EB%A6%AC%EC%83%B5">더우리샵</a></td>
-<td style="width: 110.875px; text-align: center;">개발팀</td>
-<td style="width: 102px; text-align: center;">대리</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<table style="height: 31px; width: 533px;">
-<tbody>
-<tr>
-<td style="width: 523px; text-align: center;"><strong>System Integration (freelancer)</strong></td>
-</tr>
-</tbody>
-</table>
-<table style="height: 83px; width: 533px;">
-<tbody>
-<tr>
-<td style="width: 155px; text-align: center;">2023.07 ~ 2023.10</td>
-<td style="width: 134px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/blob/main/System%20Integration/%EB%86%8D%ED%98%91%20%ED%95%98%EB%82%98%EB%A1%9C%EB%A7%88%ED%8A%B8.md">농협 IT 센터</a></td>
-<td style="width: 112.492px; text-align: center;">개발팀</td>
-<td style="width: 100.508px; text-align: center;">책임</td>
-</tr>
-<tr>
-<td style="width: 155px; text-align: center;">2023.10 ~ 2023.12</td>
-<td style="width: 134px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/blob/main/System%20Integration/MSX%20coin%20Wallet.md">MSX</a></td>
-<td style="width: 112.492px; text-align: center;">개발팀</td>
-<td style="width: 100.508px; text-align: center;">책임</td>
-</tr>
-<tr>
-<td style="width: 155px; text-align: center;">2023.12 ~ 2024.01</td>
-<td style="width: 134px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/blob/main/System%20Integration/EV%26U.md">현대 오일 뱅크</a></td>
-<td style="width: 112.492px; text-align: center;">개발팀</td>
-<td style="width: 100.508px; text-align: center;">책임</td>
-</tr>
-<tr>
-<td style="width: 155px; text-align: center;">2024.01 ~ 2024. 03</td>
-<td style="width: 134px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/blob/main/System%20Integration/The%20red.md">어거스트랩</a></td>
-<td style="width: 112.492px; text-align: center;">개발팀</td>
-<td style="width: 100.508px; text-align: center;">책임</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<table style="height: 33px;" width="354">
-<tbody>
-<tr style="height: 29px;">
-<td style="width: 344px; height: 29px;">
-<p class="p1" style="text-align: center;"><strong>Others</strong></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="height: 54px;" width="353">
-<tbody>
-<tr>
-<td style="width: 168.5px; text-align: center;">MS Office</td>
-<td style="width: 168.5px; text-align: center;">중</td>
-</tr>
-<tr>
-<td style="width: 168.5px; text-align: center;">직전연봉</td>
-<td style="width: 168.5px; text-align: center;">5,500 만원</td>
-</tr>
-<tr>
-<td style="width: 168.5px; text-align: center;">프리랜서 월 단가</td>
-<td style="width: 168.5px; text-align: center;">550 ~ 600 만원</td>
-</tr>
-</tbody>
-</table>
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>권찬희 — Flutter Developer Portfolio</title>
+  <style>
+    :root{--accent:#0b72ff;--muted:#6b7280;--bg:#f7f9fc;font-family:Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;}
+    body{margin:0;background:var(--bg);color:#111827;line-height:1.45}
+    .container{max-width:980px;margin:36px auto;padding:28px;background:white;border-radius:12px;box-shadow:0 6px 24px rgba(15,23,42,0.06)}
+    header{display:flex;gap:20px;align-items:center}
+    .avatar{width:92px;height:92px;border-radius:14px;background:linear-gradient(135deg,var(--accent),#6c9eff);display:flex;align-items:center;justify-content:center;color:white;font-weight:700;font-size:28px}
+    h1{margin:0;font-size:22px}
+    p.lead{margin:6px 0 0;color:var(--muted)}
+    .meta{display:flex;gap:10px;margin-top:12px;flex-wrap:wrap}
+    .chip{background:#f1f5f9;padding:8px 10px;border-radius:999px;font-size:13px;color:#0f172a}
+    section{margin-top:26px}
+    h2{font-size:18px;margin:0 0 12px}
+    .grid{display:grid;grid-template-columns:1fr 320px;gap:20px}
+    .card{background:#fff;padding:16px;border-radius:10px;border:1px solid #eef2f6}
+    ul.clean{padding:0;margin:0;list-style:none}
+    .timeline{display:flex;flex-direction:column;gap:10px}
+    .role{padding:12px;border-radius:8px;background:#f8fafc;border-left:4px solid var(--accent)}
+    .small{font-size:13px;color:var(--muted)}
+    table.info{width:100%;border-collapse:collapse}
+    table.info td{padding:6px 8px;border-bottom:1px dashed #eef2f6}
+    .skills{display:flex;flex-wrap:wrap;gap:8px}
+    .skill{background:#f1f5f9;padding:6px 10px;border-radius:999px;font-size:13px}
+    .projects .project{padding:12px;border-radius:8px;border:1px solid #eef2f6;background:#fff;margin-bottom:10px}
+    footer{margin-top:22px;color:var(--muted);font-size:13px;text-align:center}
+    @media (max-width:880px){.grid{grid-template-columns:1fr;padding:0}.container{margin:18px;padding:18px}}
+  </style>
+</head>
+<body>
+  <div class="container" role="main">
+    <header>
+      <div class="avatar">KC</div>
+      <div>
+        <h1>권찬희 (Kwon Chanhee) — Flutter Developer</h1>
+        <p class="lead">Flutter v1 부터 시작해 7년 이상 모바일 앱 개발을 해온 개발자입니다. 다양한 팀과 협업하며 안정적인 앱 설계와 배포, 유지보수를 경험했습니다.</p>
+        <div class="meta">
+          <div class="chip">총 경력: 7년 1개월</div>
+          <div class="chip">전문분야: Flutter, 모바일 앱 아키텍처, Firebase, BLE</div>
+          <div class="chip">직전 연봉: ₩55,000,000</div>
+        </div>
+      </div>
+    </header>
+
+    <section class="grid">
+      <div>
+        <div class="card">
+          <h2>Contact</h2>
+          <table class="info">
+            <tr><td>이름</td><td>권 찬 희</td></tr>
+            <tr><td>생년월일</td><td>1996.12.11</td></tr>
+            <tr><td>전화</td><td>010-4955-7347</td></tr>
+            <tr><td>주소</td><td>부천시 소사구 심곡본동 617-11 (부천 롯데아파트 2동 509호)</td></tr>
+            <tr><td>병역</td><td>육군 병장 전역 (2016.10 ~ 2018.07)</td></tr>
+          </table>
+        </div>
+
+        <div class="card" style="margin-top:12px">
+          <h2>Core Competencies</h2>
+          <div class="skills" style="margin-bottom:8px">
+            <span class="skill">Flutter (Dart)</span>
+            <span class="skill">State: GetX / Bloc / Provider</span>
+            <span class="skill">RESTful / GraphQL</span>
+            <span class="skill">Firebase (Push, Realtime DB, Firestore)</span>
+            <span class="skill">Git / SVN</span>
+            <span class="skill">Figma / Zeplin / Jira</span>
+            <span class="skill">Bluetooth (Firmware comms)</span>
+            <span class="skill">Social Login / OAuth</span>
+          </div>
+          <p class="small">프로젝트에 맞는 아키텍처(MVVM, MVC 등)를 적용하고, 라이브러리를 필요에 맞게 커스터마이징하여 유지보수성 높은 코드를 작성합니다.</p>
+        </div>
+
+        <div class="card" style="margin-top:12px">
+          <h2>Education</h2>
+          <ul class="clean">
+            <li class="small">2016.03 ~ 2019.07 서일대학교 (소프트웨어 공학과) — 3학년 중퇴</li>
+            <li class="small">2012.03 ~ 2015.02 용산공업고등학교 (전자과)</li>
+          </ul>
+        </div>
+
+        <div class="card" style="margin-top:12px">
+          <h2>Work History (요약)</h2>
+          <div class="timeline">
+            <!-- 최신순 -->
+            <div class="role">
+              <strong>2024.12 ~ 재직중 — 티피엘엔디 (책임연구원 / 매니저)</strong>
+              <div class="small">주요직무: SI 개발 · (진행 프로젝트는 아래 TPLND 상세에 기입 예정)</div>
+            </div>
+
+            <div class="role">
+              <strong>2024.01 ~ 2025.07 (1년 7개월) — Augustlab (과장 / 팀장)</strong>
+              <div class="small">주요직무: 앱 개발자 · 팀 리딩</div>
+            </div>
+
+            <div class="role">
+              <strong>2024.04 ~ 2024.12 (9개월) — Hillserion (힐세리온) (선임연구원 / 팀장)</strong>
+              <div class="small">주요직무: 앱 개발자 · 연봉: ₩55,000,000</div>
+            </div>
+
+            <div class="role">
+              <strong>2023.11 ~ 2024.01 (3개월) — 현대오일뱅크 (프리랜서)</strong>
+              <div class="small">전기차 충전소 앱: 환경부 데이터 기반 200,000개 지도 마커 표시 · 베트남 개발자 협업 · Git 기반 코드 공유</div>
+            </div>
+
+            <div class="role">
+              <strong>2023.09 ~ 2023.11 (3개월) — MSX (프리랜서)</strong>
+              <div class="small">블록체인 연동 앱: 코인/게임/투자 기능 개발</div>
+            </div>
+
+            <div class="role">
+              <strong>2023.07 ~ 2023.09 (3개월) — 농협 IT 센터 (프리랜서, 과장/팀장)</strong>
+              <div class="small">하나로마트 앱을 React Native → Flutter 마이그레이션 · 기존 API 재사용</div>
+            </div>
+
+            <div class="role">
+              <strong>2022.10 ~ 2023.07 (10개월) — WorldChanger (대리)</strong>
+              <div class="small">블록체인 지갑 · DApp 개발 · 연봉: ₩53,000,000</div>
+            </div>
+
+            <div class="role">
+              <strong>2021.11 ~ 2022.10 (1년) — People&Job (대리)</strong>
+              <div class="small">앱 개발자 · 연봉: ₩45,900,000</div>
+            </div>
+
+            <div class="role">
+              <strong>2020.07 ~ 2021.11 (1년 5개월) — NetMix</strong>
+              <div class="small">앱 개발자</div>
+            </div>
+
+            <div class="role">
+              <strong>2018.08 ~ 2020.05 (1년 10개월) — OnIO</strong>
+              <div class="small">앱 개발자 (입사 후 실무 경험 시작)</div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+      <aside>
+        <div class="card">
+          <h2>Quick Facts</h2>
+          <p class="small">프리랜서 월 단가: ₩550 ~ 600만<br>MS Office: 중급</p>
+        </div>
+
+        <div class="card" style="margin-top:12px">
+          <h2>Technical Tools</h2>
+          <div class="skills">
+            <span class="skill">VSCode / Android Studio</span>
+            <span class="skill">Fastlane / CI-CD</span>
+            <span class="skill">Firebase</span>
+            <span class="skill">Socket / REST / GraphQL</span>
+            <span class="skill">Docker (기초)</span>
+          </div>
+        </div>
+
+        <div class="card" style="margin-top:12px">
+          <h2>Languages</h2>
+          <p class="small">한국어 (원어민), 영어 (기술문서 읽기/협업 가능)</p>
+        </div>
+      </aside>
+    </section>
+
+    <section class="projects card" style="margin-top:18px">
+      <h2>Selected Projects</h2>
+
+      <div class="project">
+        <strong>티피엘엔디 (TPLND) — 진행 중</strong>
+        <p class="small">(여기에 사용자가 제공할 상세 프로젝트 설명을 넣겠습니다 — 예: 기간, 역할, 핵심기능, 사용 기술, 성과)</p>
+      </div>
+
+      <div class="project">
+        <strong>Augustlab — (2024.01 ~ 2025.07)</strong>
+        <p class="small">앱 개발 및 팀 리딩. Flutter 기반 앱 설계 · 코드 리뷰 · 배포 파이프라인 구성 등</p>
+      </div>
+
+      <div class="project">
+        <strong>힐세리온 (Hillserion) — (2024.04 ~ 2024.12)</strong>
+        <p class="small">의료/헬스 관련 앱 개발. 주요 기능: 데이터 시각화, BLE 연동, 백그라운드 작업 최적화</p>
+      </div>
+
+      <div class="project">
+        <strong>현대오일뱅크 — (2023.11 ~ 2024.01)</strong>
+        <p class="small">전기차 충전소 앱: 환경부 데이터(약 200,000건) 지도 시각화 및 성능 최적화, 다국적(베트남) 개발자와 협업</p>
+      </div>
+
+      <div class="project">
+        <strong>MSX / WorldChanger / Others</strong>
+        <p class="small">블록체인 지갑, DApp, 코인 연동 앱 등 다양한 금융/블록체인 관련 프로젝트 참여</p>
+      </div>
+
+    </section>
+
+    <section class="card" style="margin-top:18px">
+      <h2>Summary</h2>
+      <p class="small">Flutter (v1 부터 시작) 기반의 모바일 앱 개발자로서, 프론트엔드 설계, 상태관리, 네트워크/백엔드 통신, BLE 통신, 그리고 다양한 외부 API 연동 경험이 있습니다. 팀 내외부와의 원활한 커뮤니케이션으로 프로젝트를 주도하고, 유지보수성 높은 코드를 작성합니다. 티피엘엔디에서 진행한 프로젝트들은 별도 제공해주시는 설명을 받아 해당 섹션에 추가하겠습니다.</p>
+    </section>
+
+    <footer>
+      © 권찬희 · Flutter Developer
+    </footer>
+  </div>
+</body>
+</html>
